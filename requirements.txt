@@ -1,0 +1,3 @@
+# Apple Silicon only. Pulls in mlx + huggingface-hub.
+# ffmpeg is a system dependency: brew install ffmpeg
+mlx-whisper>=0.4.3
